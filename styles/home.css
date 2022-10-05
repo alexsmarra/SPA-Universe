@@ -1,0 +1,15 @@
+#content-home {
+   display: grid;
+}
+
+a.btn {
+   color: var(--fc-btn);
+   border: 2px solid #FFFFFF;
+   border-radius: .5rem;
+   text-align: center;
+   padding: 1.2rem 0;
+   width: clamp(17rem, 17rem + 4vw, 22rem);
+   cursor: pointer;
+   text-decoration: none;
+   font-size: 1.6rem;
+}
